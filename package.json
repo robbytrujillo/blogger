@@ -13,8 +13,7 @@
     "bootstrap": "^5.2.3",
     "vue": "^3.2.47",
     "vue-axios": "^3.5.2",
-    "vue-router": "^4.1.6",
-    "deploy" : "sh deploy.sh"
+    "vue-router": "^4.1.6"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",
